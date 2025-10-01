@@ -1,0 +1,30 @@
+.fundo {
+    position: relative;
+    background-color: rgb(164, 204, 218);
+    height: 75%;
+    width: 100%;
+    margin-top: -16px;
+    clear: both;
+}
+
+.caixa {
+    position: absolute;
+    background-color: white;
+
+    width: 175px;
+    height: 160px;
+    
+    left: 1088.5px;
+    top: 0px;
+}
+.caixa2 {
+    position: absolute;
+    background-color: white;
+
+    width: 175px;
+    height: 160px;
+    
+    left: 1088.5px;
+    top: 165px;
+}
+

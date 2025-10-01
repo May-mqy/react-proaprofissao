@@ -1,0 +1,9 @@
+.camera{
+    position: absolute;
+    left: 970px;
+    top: 570px;
+
+    width: 200px;
+    height: 180px;
+    z-index: 2;
+}

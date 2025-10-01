@@ -1,0 +1,17 @@
+section {
+    position: relative;
+    height: 400px;
+    background-color: rgb(68, 68, 233);
+}
+
+p{
+    color: pink;
+    text-align: justify;
+    margin: auto;
+    width: 80%;
+}
+
+.tit_conteudo{
+    color: antiquewhite;
+    font-size: 30px;
+}

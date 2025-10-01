@@ -1,0 +1,13 @@
+.meio{
+    position: absolute;
+    left: 178px;
+    top: 152px;
+    width: 70%;
+    height: 599px;
+    background-color: rgb(194, 184, 173);
+    z-index: 2;
+}
+
+.meio p{
+    margin-top: -1px;
+}

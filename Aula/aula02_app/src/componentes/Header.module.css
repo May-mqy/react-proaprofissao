@@ -1,0 +1,15 @@
+header{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: aquamarine;
+    justify-content: center;
+}
+
+h1{
+    font-size: 40px;
+    color: rgb(22, 109, 109);
+    text-align: center;
+}
