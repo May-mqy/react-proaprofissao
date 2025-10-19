@@ -1,0 +1,41 @@
+.vermelho {
+    background-color: rgb(218, 0, 0);
+    width: auto;
+    height: 450px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.destaque{
+    font-weight: 900;
+    font-size: 26px;
+}
+
+.rosa1{
+    background-color: rgb(177, 120, 113);
+    width: 43%;
+    height: 280px;
+    padding: 26px;
+    margin-top: 20px;
+
+    p{
+        margin-top: 10px;
+        font-size: 20px;
+        text-align: justify;
+        margin-right: 30px;
+    }
+}
+
+
+
+.rosa2{
+    background-image: url('../../assets/img/loja.jpg');
+    background-size: cover;
+    width: 43%;
+    height: 320px;
+    margin-top: 20px;
+
+
+}
